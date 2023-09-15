@@ -117,6 +117,22 @@
     {
       "id": 1,
       "cart": {
+        "1": {
+          "count": 62,
+          "price": 89
+        },
+        "2": {
+          "count": 11,
+          "price": 449
+        },
+        "3": {
+          "count": 0,
+          "price": 849
+        },
+        "5": {
+          "count": 0,
+          "price": 3999
+        }
       },
       "requestId": "_bSN5sENILg-Px1J4c1J9",
       "signal": {}
